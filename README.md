@@ -2,7 +2,7 @@
 
 ## Team Members
 - **Shree Prasad M - CH.EN.U4AIE22050**
-- **Tharun Kaarthik - CH.EN.U4AIE22062**
+- **Tharun Kaarthik G K- CH.EN.U4AIE22062**
 
 ## Objective
 Campus Pal is an AI-driven Question Answering (QA) system designed to provide quick and accurate responses to queries related to Amrita University.
@@ -21,7 +21,6 @@ Key features of T5ForConditionalGeneration:
 2. **Fine-tuning**: Training T5 on domain-specific data related to Amrita University.
 3. **Testing**: Using the given sets of questions of different levels and getting appropriate answers
 
-## Future Enhancements
-- Enhancing the dataset with more diverse university-related queries.
-- Implementing a feedback loop to improve answer accuracy over time.
-- Deploying the system as a chatbot for seamless interaction.
+## Repository Structure
+
+
