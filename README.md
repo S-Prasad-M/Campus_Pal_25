@@ -4,6 +4,18 @@
 - **Shree Prasad M - CH.EN.U4AIE22050**
 - **Tharun Kaarthik G K- CH.EN.U4AIE22062**
 
+## Repository Structure
+```
+Campus-Pal/
+│-- Solution/
+│   │-- Level-1/
+│   │   ├── (Photos of proof)
+│   │-- Level-2/
+│   │   ├── (Photos of proof)
+│   │-- Level-3/
+│   │   ├── (Photos of proof)
+```
+
 ## Objective
 Campus Pal is an AI-driven Question Answering (QA) system designed to provide quick and accurate responses to queries related to Amrita University.
 
@@ -20,7 +32,5 @@ Key features of T5ForConditionalGeneration:
 1. **Data Collection**: Using the given JSON file.
 2. **Fine-tuning**: Training T5 on domain-specific data related to Amrita University.
 3. **Testing**: Using the given sets of questions of different levels and getting appropriate answers
-
-## Repository Structure
 
 
