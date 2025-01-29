@@ -14,6 +14,8 @@ Campus-Pal/
 │   │   ├── (Photos of proof)
 │   │-- Level-3/
 │   │   ├── (Photos of proof)
+|   |-- All Solution Document
+|-- Campus_Pal_QA.ipynb
 ```
 
 ## Objective
